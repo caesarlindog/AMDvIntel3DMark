@@ -1,2 +1,6 @@
 # gpu-moores-law
-Did moore's law ever die for GPU's (Graphics Processing Unit)?
+Did Moore's Law ever die for GPU's (Graphics Processing Unit)?
+
+Before that, I'll start with data collection and analysis first.
+
+Starting with 3DMark.
