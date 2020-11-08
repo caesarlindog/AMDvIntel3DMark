@@ -1,4 +1,4 @@
-# AMDvIntel3DMark
+# AMD v Intel 3DMark
 A research outlining the difference between Intel and AMD CPUs on 3DMark's modern benchmarking tools
 (Fire Strike, Time Spy, and Port Royal)
 
