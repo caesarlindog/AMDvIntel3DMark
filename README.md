@@ -1,6 +1,5 @@
-# gpu-moores-law
-Did Moore's Law ever die for GPU's (Graphics Processing Unit)?
+# AMDvIntel3DMark
+A research outlining the difference between Intel and AMD CPUs on 3DMark's modern benchmarking tools
+(Fire Strike, Time Spy, and Port Royal)
 
-Before that, I'll start with data collection and analysis first.
-
-Starting with 3DMark.
+This is currently limited on RTX 3080 data due to scraper constraints but will update once I am able to get more data.
