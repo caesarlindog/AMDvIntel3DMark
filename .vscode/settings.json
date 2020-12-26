@@ -1,3 +1,5 @@
 {
-    "python.dataScience.jupyterServerURI": "local"
+    "python.dataScience.jupyterServerURI": "local",
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "C:\\Users\\c\\anaconda3\\envs\\machinelearning\\python.exe"
 }
