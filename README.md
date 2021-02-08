@@ -1,3 +1,5 @@
+![alt text](https://imgur.com/WrUn9Oj.jpg)
+
 # AMD vs. Intel on 3DMark's Benchmarking Tools
 
 A research outlining the difference between Intel and AMD CPUs on 3DMark's modern benchmarking tools
@@ -22,6 +24,12 @@ Due to some faulty results caused by prematurely-ended runs, EDA took out a lot 
 ## Changelogs
 
 11.11.20 - New data is set to be added by 11.13.20 but the GPU scope is still limited to Turing GPUs (RTX 30XX) since I have to cap my scraper's speed. Also, a proper readme!
+02.07.21 - Added temporary header photo back.
+
+## Future Updates
+
+* Rerunning the whole project with data that consists of a variety of mobile, desktop, and workstation GPUs
+* Adding Pyplot functions and iPywidgets should be the next step - then a proper Dashboard
 
 ## Stack
 
